@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- All the strings -->
+    <string name="app_name">Top Hat</string>
+    <string name="action_settings">Settings</string>
+    <string name="draw">Draw From The Hat!</string>
+    <string name="enter">Enter names here.</string>
+    <string name="item">No Items</string>
+    <string name="buttondes">Click to add name</string>
+    
+
+</resources>
